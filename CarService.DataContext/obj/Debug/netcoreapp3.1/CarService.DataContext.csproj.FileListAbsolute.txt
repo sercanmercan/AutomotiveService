@@ -1,0 +1,12 @@
+C:\Users\info\source\repos\CarService\CarService.DataContext\bin\Debug\netcoreapp3.1\CarService.DataContext.deps.json
+C:\Users\info\source\repos\CarService\CarService.DataContext\bin\Debug\netcoreapp3.1\CarService.DataContext.runtimeconfig.json
+C:\Users\info\source\repos\CarService\CarService.DataContext\bin\Debug\netcoreapp3.1\CarService.DataContext.runtimeconfig.dev.json
+C:\Users\info\source\repos\CarService\CarService.DataContext\bin\Debug\netcoreapp3.1\CarService.DataContext.dll
+C:\Users\info\source\repos\CarService\CarService.DataContext\bin\Debug\netcoreapp3.1\CarService.DataContext.pdb
+C:\Users\info\source\repos\CarService\CarService.DataContext\obj\Debug\netcoreapp3.1\CarService.DataContext.csprojAssemblyReference.cache
+C:\Users\info\source\repos\CarService\CarService.DataContext\obj\Debug\netcoreapp3.1\CarService.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\CarService\CarService.DataContext\obj\Debug\netcoreapp3.1\CarService.DataContext.AssemblyInfoInputs.cache
+C:\Users\info\source\repos\CarService\CarService.DataContext\obj\Debug\netcoreapp3.1\CarService.DataContext.AssemblyInfo.cs
+C:\Users\info\source\repos\CarService\CarService.DataContext\obj\Debug\netcoreapp3.1\CarService.DataContext.dll
+C:\Users\info\source\repos\CarService\CarService.DataContext\obj\Debug\netcoreapp3.1\CarService.DataContext.pdb
+C:\Users\info\source\repos\CarService\CarService.DataContext\obj\Debug\netcoreapp3.1\CarService.DataContext.genruntimeconfig.cache

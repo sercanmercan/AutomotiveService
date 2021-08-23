@@ -1,0 +1,11 @@
+C:\Users\info\source\repos\CarService\CarService.Service\bin\Debug\netcoreapp3.1\CarService.Service.deps.json
+C:\Users\info\source\repos\CarService\CarService.Service\bin\Debug\netcoreapp3.1\CarService.Service.dll
+C:\Users\info\source\repos\CarService\CarService.Service\bin\Debug\netcoreapp3.1\CarService.Service.pdb
+C:\Users\info\source\repos\CarService\CarService.Service\bin\Debug\netcoreapp3.1\CarService.DataContext.dll
+C:\Users\info\source\repos\CarService\CarService.Service\bin\Debug\netcoreapp3.1\CarService.DataContext.pdb
+C:\Users\info\source\repos\CarService\CarService.Service\obj\Debug\netcoreapp3.1\CarService.Service.csprojAssemblyReference.cache
+C:\Users\info\source\repos\CarService\CarService.Service\obj\Debug\netcoreapp3.1\CarService.Service.AssemblyInfoInputs.cache
+C:\Users\info\source\repos\CarService\CarService.Service\obj\Debug\netcoreapp3.1\CarService.Service.AssemblyInfo.cs
+C:\Users\info\source\repos\CarService\CarService.Service\obj\Debug\netcoreapp3.1\CarService.Service.csproj.CopyComplete
+C:\Users\info\source\repos\CarService\CarService.Service\obj\Debug\netcoreapp3.1\CarService.Service.dll
+C:\Users\info\source\repos\CarService\CarService.Service\obj\Debug\netcoreapp3.1\CarService.Service.pdb

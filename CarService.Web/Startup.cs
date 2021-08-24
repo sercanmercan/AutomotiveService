@@ -44,7 +44,6 @@ namespace CarService.Web
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "CarService", Version = "v1" });
             });
 
-            services.AddDbContext<CarServiceDbContext>(options => options.UseSqlServer("Server=DESKTOP-9CU05GT;Database=CarService;Trusted_Connection=True;"));
             services.AddCors();
         }
 
